@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Ne9wszo21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">ne9wszo21</h1>
 
-<!---
-Ne9wszo21/Ne9wszo21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">linux user
+
+### about me
+
+interested in linux, ricing, and open-source
+exploring hyprland, quickshell, and shell scripting
+
+
+### needed for this guy to work
+
+`linux` `arch linux` `hyprland` `wayland` `bash` `git`
+
